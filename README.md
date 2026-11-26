@@ -107,3 +107,8 @@ Este projeto utiliza dados sintéticos, criados exclusivamente para fins educaci
 Projeto desenvolvido para prática de Análise de Dados com Google Sheets.
 
 #DataAnalytics #GoogleSheets #PeopleAnalytics #StorytellingComDados
+
+
+## 📊 Dashboard do projeto
+
+![Dashboard - Efeito GTA VI](dashboard.jpg)
